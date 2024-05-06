@@ -1,8 +1,3 @@
-
-
-
-python
-Copy code
 # Author: Nicholas Ngobi
 
 # Prompt the user to input values for variables a and b
